@@ -5,4 +5,5 @@ Device("Device").App("Advantage Shopping").MobileObject("com.Advantage.aShopping
 Device("Device").App("Advantage Shopping").MobileObject("com.Advantage.aShopping:_3").Tap
 Device("Device").App("Advantage Shopping").MobileObject("MobileObject").Tap
 'comment 2
+'my new comment
 Device("Device").Home
